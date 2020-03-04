@@ -1,0 +1,55 @@
+"Games"
+{
+	"left4dead"
+	{
+		"Signatures"
+		{
+			"SetHumanSpec"
+			{
+				"library"	"server"
+				"linux" "@_ZN11SurvivorBot17SetHumanSpectatorEP13CTerrorPlayer"
+				"windows" "\x53\x8B\xD9\x83\x2A\x2A\x2A\x2A\x2A\x2A\x56\x8D\x2A\x2A\x2A\x2A\x2A\x7E\x07\x5E\x32\xC0\x5B\xC2\x04\x00"
+			}
+			"TakeOverBot"
+			{
+				"library"	"server"
+				"linux"	"@_ZN13CTerrorPlayer11TakeOverBotEb"
+				"windows" "\x81\x2A\x2A\x2A\x2A\x2A\x53\x55\x56\x57\x8D\x2A\x2A\x2A\x8B\xF9\x33\xDB\x50"
+			}			
+			"RoundRespawn"			
+			{				
+				"library"	"server"				
+				"linux"		"@_ZN13CTerrorPlayer12RoundRespawnEv"				
+				"windows"	"\x56\x8B\xF1\xE8\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x84\xC0\x75"				
+				/* 56 8B F1 E8 ? ? ? ? E8 ? ? ? ? 84 C0 75	*/				
+				/* previous function in vtable has a string */			
+			}
+		}
+	}
+
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			"SetHumanSpec"
+			{
+				"library"    "server"
+				"linux" "@_ZN11SurvivorBot17SetHumanSpectatorEP13CTerrorPlayer"
+				"windows" "\x53\x56\x8B\xF1\x33\xDB\x39*******\x5E\x32\xC0\x5B"
+			}
+			"TakeOverBot"
+			{
+				"library"    "server"
+				"linux"    "@_ZN13CTerrorPlayer11TakeOverBotEb"
+				"windows" "\x81*****\x53\x55\x56\x8D***\x57\x8B\xF1\x33\xDB"
+			}			
+			"RoundRespawn"			
+			{				
+				"library"	"server"				
+				"linux"		"@_ZN13CTerrorPlayer12RoundRespawnEv"				
+				"windows"	"\x56\x8B\xF1\xE8\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x84\xC0\x75"				
+				/* 56 8B F1 E8 ? ? ? ? E8 ? ? ? ? 84 C0 75	*/			
+			}
+		}
+	}
+}

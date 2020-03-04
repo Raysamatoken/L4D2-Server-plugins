@@ -1,0 +1,798 @@
+"UnofficialMapList"
+{
+	"請使用專業代碼修改軟件進行修改本文檔,文檔格式爲:UTF-8 without BOM(Please using the professional software to modify this document,File type:UTF-8 without BOM)"		"軟件下載地址(Download URL): http://notepad-plus-plus.org/"
+	"max count"		"518"
+	"0"
+	{
+		"c2m1_highway"		"c2-黑色狂欢节"
+		"MapCode"		"c2m1_highway"
+	}
+	"1"
+	{
+		"c3m1_plankcountry"		"c3-沼泽激战"
+		"MapCode"		"c3m1_plankcountry"
+	}
+	"2"
+	{
+		"c4m1_milltown_a"		"c4-暴风骤雨"
+		"MapCode"		"c4m1_milltown_a"
+	}
+	"3"
+	{
+		"c5m1_waterfront"		"c5-教区"
+		"MapCode"		"c5m1_waterfront"
+	}
+	"4"
+	{
+		"c6m1_riverbank"		"c6-短暂时刻"
+		"MapCode"		"c6m1_riverbank"
+	}
+	"5"
+	{
+		"c7m1_docks"		"c7-牺牲"
+		"MapCode"		"c7m1_docks"
+	}
+	"6"
+	{
+		"c8m1_apartment"		"c8-毫不留情"
+		"MapCode"		"c8m1_apartment"
+	}
+	"7"
+	{
+		"c9m1_alleys"		"c9-坠机险途"
+		"MapCode"		"c9m1_alleys"
+	}
+	"8"
+	{
+		"c10m1_caves"		"c10-死亡丧钟"
+		"MapCode"		"c10m1_caves"
+	}
+	"9"
+	{
+		"c11m1_greenhouse"		"c11-静寂时分"
+		"MapCode"		"c11m1_greenhouse"
+	}
+	"10"
+	{
+		"c12m1_hilltop"		"c12-血腥收获"
+		"MapCode"		"c12m1_hilltop"
+	}
+	"11"
+	{
+		"c13m1_alpinecreek"		"c13-刺骨寒溪"
+		"MapCode"		"c13m1_alpinecreek"
+	}
+	"12"
+	{
+		"l4d2-DisposalFacility"		"摩西岛阴影 V3.0"
+		"MapCode"		"l4d2-DisposalFacility"
+	}
+	"13"
+	{
+		"l4d2_planb1_v051"		"B计划 V0.51"
+		"MapCode"		"l4d2_planb1_v051"
+	}
+	"14"
+	{
+		"l4d2_tank_challenge"		"tank挑战 V1.5"
+		"MapCode"		"l4d2_tank_challenge"
+	}
+	"15"
+	{
+		"bp_mapalpha1"		"死路"
+		"MapCode"		"bp_mapalpha1"
+	}
+	"16"
+	{
+		"C1_mario1_1"		"马里奥探险"
+		"MapCode"		"C1_mario1_1"
+	}
+	"17"
+	{
+		"wfp1_track"		"白森林 V3.0"
+		"MapCode"		"wfp1_track"
+	}
+	"18"
+	{
+		"Dead_Series1"		"死亡系列 v5.0"
+		"MapCode"		"Dead_Series1"
+	}
+	"19"
+	{
+		"qe_1_cliche"		"伦理问题 V1.2"
+		"MapCode"		"qe_1_cliche"
+	}
+	"20"
+	{
+		"qe2_ep1"		"伦理问题 V2.3"
+		"MapCode"		"qe2_ep1"
+	}
+	"21"
+	{
+		"l4d_yama_1"		"摩耶山危机 V4.0（yama）"
+		"MapCode"		"l4d_yama_1"
+	}
+	"22"
+	{
+		"deathttoiletmaze1"		"死亡厕所 V1.5"
+		"MapCode"		"deathttoiletmaze1"
+	}
+	"23"
+	{
+		"msd1_town"		"再见了晨茗 V3.0"
+		"MapCode"		"msd1_town"
+	}
+	"24"
+	{
+		"CrashBandicootMap1"		"崩溃的博士"
+		"MapCode"		"CrashBandicootMap1"
+	}
+	"25"
+	{
+		"l4d2_CrashBandicootvs1"		"崩溃的博士2"
+		"MapCode"		"l4d2_CrashBandicootvs1"
+	}
+	"26"
+	{
+		"the_hive_m1"		"生化危机蜂巢 V3.1"
+		"MapCode"		"the_hive_m1"
+	}
+	"27"
+	{
+		"srocchurch"		"巴塞罗那 V1.1"
+		"MapCode"		"srocchurch"
+	}
+	"28"
+	{
+		"l4d_zero01_south"		"绝对零度 V4.0"
+		"MapCode"		"l4d_zero01_south"
+	}
+	"29"
+	{
+		"l4d2_diescraper1_apartment_36"		"摩天大厦 V3.6"
+		"MapCode"		"l4d2_diescraper1_apartment_36"
+	}
+	"30"
+	{
+		"l4d_fallen01_approach"		"坠落 V8.0"
+		"MapCode"		"l4d_fallen01_approach"
+	}
+	"31"
+	{
+		"oot_forest"		"哥奇利森林 V3.0"
+		"MapCode"		"oot_forest"
+	}
+	"32"
+	{
+		"persecucion"		"只此一路"
+		"MapCode"		"persecucion"
+	}
+	"33"
+	{
+		"l4d2_daybreak01_hotel"		"黎明 V2.0"
+		"MapCode"		"l4d2_daybreak01_hotel"
+	}
+	"34"
+	{
+		"l4d2_bts01_forest"		"回到学校 V1.06"
+		"MapCode"		"l4d2_bts01_forest"
+	}
+	"35"
+	{
+		"dm1_suburbs"		"魔鬼山 V3.1"
+		"MapCode"		"dm1_suburbs"
+	}
+	"36"
+	{
+		"l4d2_city17_01"		"城市17"
+		"MapCode"		"l4d2_city17_01"
+	}
+	"37"
+	{
+		"beldurra01_urbanbrawl"		"恐惧第一部 V3.0"
+		"MapCode"		"beldurra01_urbanbrawl"
+	}
+	"38"
+	{
+		"beldurra2_1"		"恐惧第二部 V2.0"
+		"MapCode"		"beldurra2_1"
+	}
+	"39"
+	{
+		"l4d_sh01_oldsh"		"寂静岭 V9.4"
+		"MapCode"		"l4d_sh01_oldsh"
+	}
+	"40"
+	{
+		"SA_01"		"寂静岭另一边的生活 V4.7"
+		"MapCode"		"SA_01"
+	}
+	"41"
+	{
+		"l4d2_ff01_woods"		"致命货运站V1.3"
+		"MapCode"		"l4d2_ff01_woods"
+	}
+	"42"
+	{
+		"l4d2_mic2_trapmentd"		"军事工厂3 V7.0"
+		"MapCode"		"l4d2_mic2_trapmentd"
+	}
+	"43"
+	{
+		"re1m1"		"生化危机1 V3.3"
+		"MapCode"		"re1m1"
+	}
+	"44"
+	{
+		"nem_1_uptown"		"浣熊市复仇者 V5.1"
+		"MapCode"		"nem_1_uptown"
+	}
+	"45"
+	{
+		"l4d2_stadium1_apartment"		"闪电突袭2 V4.0"
+		"MapCode"		"l4d2_stadium1_apartment"
+	}
+	"46"
+	{
+		"l4d_149_1"		"古墓亡影 V13.0"
+		"MapCode"		"l4d_149_1"
+	}
+	"47"
+	{
+		"route_to_city_vs1"		"死亡奔跑 V5.3"
+		"MapCode"		"route_to_city_vs1"
+	}
+	"48"
+	{
+		"cdta_01detour"		"迂回前进 V8.0"
+		"MapCode"		"cdta_01detour"
+	}
+	"49"
+	{
+		"eu01_residential_b16"		"恐怖之旅 V5.5"
+		"MapCode"		"eu01_residential_b16"
+	}
+	"50"
+	{
+		"bwm1_climb"		"大佛寺 V1.1"
+		"MapCode"		"bwm1_climb"
+	}
+	"51"
+	{
+		"ddntr1_01urban"		"死亡陷阱 V4.0"
+		"MapCode"		"ddntr1_01urban"
+	}
+	"52"
+	{
+		"saltwell_1_d"		"盐井地狱公园 V3.4"
+		"MapCode"		"saltwell_1_d"
+	}
+	"53"
+	{
+		"l4d_deathaboard01_prison"		"幽灵船 V2.1"
+		"MapCode"		"l4d_deathaboard01_prison"
+	}
+	"54"
+	{
+		"ec01_outlets"		"能源危机 V1.5"
+		"MapCode"		"ec01_outlets"
+	}
+	"55"
+	{
+		"l4d_coaldblood01"		"血腥煤矿2 V1.0"
+		"MapCode"		"l4d_coaldblood01"
+	}
+	"56"
+	{
+		"l4d_dbd2_citylights"		"活死人黎明 V2.0"
+		"MapCode"		"l4d_dbd2_citylights"
+	}
+	"57"
+	{
+		"a_lor_11"		"左或右 V5.0"
+		"MapCode"		"a_lor_11"
+	}
+	"58"
+	{
+		"l4d2_deathwoods01_stranded"		"死亡森林 V1.0"
+		"MapCode"		"l4d2_deathwoods01_stranded"
+	}
+	"59"
+	{
+		"DthMnt_Village"		"死亡山谷 V1.7"
+		"MapCode"		"DthMnt_Village"
+	}
+	"60"
+	{
+		"hf01_theforest"		"颤栗森林 V3.0"
+		"MapCode"		"hf01_theforest"
+	}
+	"61"
+	{
+		"l4d2_tank_arena"		"新坦克竞技场 V1.3"
+		"MapCode"		"l4d2_tank_arena"
+	}
+	"62"
+	{
+		"l4d_draxmap0"		"死亡终点站 V2.0"
+		"MapCode"		"l4d_draxmap0"
+	}
+	"63"
+	{
+		"l4d2_draxmap1"		"死亡地带 V1.0"
+		"MapCode"		"l4d2_draxmap1"
+	}
+	"64"
+	{
+		"l4d2_darkblood01_tanker"		"暗血2 V3.0"
+		"MapCode"		"l4d2_darkblood01_tanker"
+	}
+	"65"
+	{
+		"l4d2_fallindeath01"		"坠入死亡 V1.12"
+		"MapCode"		"l4d2_fallindeath01"
+	}
+	"66"
+	{
+		"death_sentence_1"		"死刑 V5.0"
+		"MapCode"		"death_sentence_1"
+	}
+	"67"
+	{
+		"esc_jailbreak"		"韵律 V1.0"
+		"MapCode"		"esc_jailbreak"
+	}
+	"68"
+	{
+		"l4d_derailed_highway2ver"		"脱轨 V1.0"
+		"MapCode"		"l4d_derailed_highway2ver"
+	}
+	"69"
+	{
+		"hotel01_market1"		"死亡度假2"
+		"MapCode"		"hotel01_market1"
+	}
+	"70"
+	{
+		"l4d_co_canal"		"跨越2 V1.0"
+		"MapCode"		"l4d_co_canal"
+	}
+	"71"
+	{
+		"quart"		"逃离瓦伦西亚 V2.0"
+		"MapCode"		"quart"
+	}
+	"72"
+	{
+		"ch_map1_city"		"真道 V1.0"
+		"MapCode"		"ch_map1_city"
+	}
+	"73"
+	{
+		"l4d2_wanli01"		"万里 V4.0"
+		"MapCode"		"l4d2_wanli01"
+	}
+	"74"
+	{
+		"l4d2_pl_badwater"		"死水盆地 V3.0"
+		"MapCode"		"l4d2_pl_badwater"
+	}
+	"75"
+	{
+		"gr-mapone-7"		"赶尽杀绝 V1.0"
+		"MapCode"		"gr-mapone-7"
+	}
+	"76"
+	{
+		"deadbeat01_forest"		"无缝逃离 V2.1"
+		"MapCode"		"deadbeat01_forest"
+	}
+	"77"
+	{
+		"m1_beach"		"死神天降 V2.3"
+		"MapCode"		"m1_beach"
+	}
+	"78"
+	{
+		"l4d2_ravenholmwar_1"		"我们不去莱温霍姆2 V1.1"
+		"MapCode"		"l4d2_ravenholmwar_1"
+	}
+	"79"
+	{
+		"l4d_viennacalling_city"		"维也纳的呼唤 V1.0"
+		"MapCode"		"l4d_viennacalling_city"
+	}
+	"80"
+	{
+		"l4d_viennacalling2_1"		"维也纳的呼唤2 V1.1"
+		"MapCode"		"l4d_viennacalling2_1"
+	}
+	"81"
+	{
+		"l4d2_roadtonowhere_route01"		"此路不通2 V4.0"
+		"MapCode"		"l4d2_roadtonowhere_route01"
+	}
+	"82"
+	{
+		"NewRise"		"模糊记忆 V1.3"
+		"MapCode"		"NewRise"
+	}
+	"83"
+	{
+		"c1_1_mall"		"死亡高校 V2.0"
+		"MapCode"		"c1_1_mall"
+	}
+	"84"
+	{
+		"l4d2_pasiri1"		"可乐之塔 V1.0"
+		"MapCode"		"l4d2_pasiri1"
+	}
+	"85"
+	{
+		"cbm1_lake"		"血之证明 V1.1"
+		"MapCode"		"cbm1_lake"
+	}
+	"86"
+	{
+		"dead_death_02"		"最终呼叫 V6.0"
+		"MapCode"		"dead_death_02"
+	}
+	"87"
+	{
+		"pk_loony"		"疯狂公园 V1.1"
+		"MapCode"		"pk_loony"
+	}
+	"88"
+	{
+		"Labirinferno_parte1"		"地狱迷宫 V1.0"
+		"MapCode"		"Labirinferno_parte1"
+	}
+	"89"
+	{
+		"lastambush_1"		"机密行动 V1.0"
+		"MapCode"		"lastambush_1"
+	}
+	"90"
+	{
+		"l4d_doom0001_base"		"命中注定 V1.0"
+		"MapCode"		"l4d_doom0001_base"
+	}
+	"91"
+	{
+		"indiana_adventure"		"印第安神庙 V3.0"
+		"MapCode"		"indiana_adventure"
+	}
+	"92"
+	{
+		"l4d_deadgetaway01_dam"		"死亡逃脱 V1.0"
+		"MapCode"		"l4d_deadgetaway01_dam"
+	}
+	"93"
+	{
+		"l4d2_downtowndine01"		"停车加油 V1.0"
+		"MapCode"		"l4d2_downtowndine01"
+	}
+	"94"
+	{
+		"l4dblackoutbasement1"		"停电地下室 V3.3"
+		"MapCode"		"l4dblackoutbasement1"
+	}
+	"95"
+	{
+		"jsarena201_town"		"死亡舞台2 V5.0"
+		"MapCode"		"jsarena201_town"
+	}
+	"96"
+	{
+		"wth_1"		"地狱欢迎你 V7.0"
+		"MapCode"		"wth_1"
+	}
+	"97"
+	{
+		"cfreepassagem1"		"自由通行 V1.2"
+		"MapCode"		"cfreepassagem1"
+	}
+	"98"
+	{
+		"gasfever_1"		"瓦斯狂热 V2.0"
+		"MapCode"		"gasfever_1"
+	}
+	"99"
+	{
+		"l4d_sc_market"		"致命派遣 V3.0"
+		"MapCode"		"l4d_sc_market"
+	}
+	"100"
+	{
+		"l4d_ihm01_forest"		"我恨山2 V1.5"
+		"MapCode"		"l4d_ihm01_forest"
+	}
+	"101"
+	{
+		"uz_crash"		"亡灵区 V1.2"
+		"MapCode"		"uz_crash"
+	}
+	"102"
+	{
+		"bloodtracks_01"		"血之轨迹 V3.1"
+		"MapCode"		"bloodtracks_01"
+	}
+	"103"
+	{
+		"l4d_suburb01_school"		"城郊惊魂 V2.3"
+		"MapCode"		"l4d_suburb01_school"
+	}
+	"104"
+	{
+		"gridlockfinal2"		"交通大拥堵 V6.0"
+		"MapCode"		"gridlockfinal2"
+	}
+	"105"
+	{
+		"2ee_01"		"邪恶双眸 V2.0"
+		"MapCode"		"2ee_01"
+	}
+	"106"
+	{
+		"redemptionII-deadstop"		"救赎2 V2.2"
+		"MapCode"		"redemptionII-deadstop"
+	}
+	"107"
+	{
+		"bhm1_outskirts"		"别被丢下 V16.0"
+		"MapCode"		"bhm1_outskirts"
+	}
+	"108"
+	{
+		"HallsofDeath"		"死亡大厅 V1.1"
+		"MapCode"		"HallsofDeath"
+	}
+	"109"
+	{
+		"de01_sewers"		"死亡回声 V1.6"
+		"MapCode"		"de01_sewers"
+	}
+	"110"
+	{
+		"somefun"		"Some Fun v1.0"
+		"MapCode"		"somefun"
+	}
+	"111"
+	{
+		"l4d2_motamap_m1"		"大坝的使命 V1.0"
+		"MapCode"		"l4d2_motamap_m1"
+	}
+	"112"
+	{
+		"p84m1_crash"		"84警区 V1.2"
+		"MapCode"		"p84m1_crash"
+	}
+	"113"
+	{
+		"silentfear"		"深度恐惧2 V1.2"
+		"MapCode"		"silentfear"
+	}
+	"114"
+	{
+		"l4d2_deathcraft_01_town"		"我的世界 V2.1"
+		"MapCode"		"l4d2_deathcraft_01_town"
+	}
+	"115"
+	{
+		"voidpreview1"		"失控的战车 V1.2"
+		"MapCode"		"voidpreview1"
+	}
+	"116"
+	{
+		"campanar_coop_vs"		"去年夏天 V5.0"
+		"MapCode"		"campanar_coop_vs"
+	}
+	"117"
+	{
+		"l4d_auburn"		"污水处理厂2 V1.1"
+		"MapCode"		"l4d_auburn"
+	}
+	"118"
+	{
+		"claustrophobia1"		"幽闭恐惧症 V1.0"
+		"MapCode"		"claustrophobia1"
+	}
+	"119"
+	{
+		"ddg1_tower_v2_1"		"暴毙峡谷 V2.1"
+		"MapCode"		"ddg1_tower_v2_1"
+	}
+	"120"
+	{
+		"rh_map01"		"逃至山上 V3.0"
+		"MapCode"		"rh_map01"
+	}
+	"121"
+	{
+		"splash1"		"飞溅山之旅 V1.0"
+		"MapCode"		"splash1"
+	}
+	"122"
+	{
+		"l4d_tbm_1"		"血腥荒野 V2.0"
+		"MapCode"		"l4d_tbm_1"
+	}
+	"123"
+	{
+		"l4d2_canals_07"		"半条命2：水障碍区 V0.1.0"
+		"MapCode"		"l4d2_canals_07"
+	}
+	"124"
+	{
+		"symbyosys_01"		"合作符号 V6.0"
+		"MapCode"		"symbyosys_01"
+	}
+	"125"
+	{
+		"noparking_lssw"		"禁止停车 V6.1"
+		"MapCode"		"noparking_lssw"
+	}
+	"126"
+	{
+		"part1_facility"		"007之黄金眼 V1.2"
+		"MapCode"		"part1_facility"
+	}
+	"127"
+	{
+		"damitdc1"		"大坝2导演版 V1.6"
+		"MapCode"		"damitdc1"
+	}
+	"128"
+	{
+		"newintro_3"		"虚幻之赛 V2.0"
+		"MapCode"		"newintro_3"
+	}
+	"129"
+	{
+		"l4d2_pl_hoodoo"		"炸弹火车 V1.3"
+		"MapCode"		"l4d2_pl_hoodoo"
+	}
+	"130"
+	{
+		"nt01_mansion"		"夜惊2013 V1.0"
+		"MapCode"		"nt01_mansion"
+	}
+	"131"
+	{
+		"simple_map_1"		"漫画世界 V1.7"
+		"MapCode"		"simple_map_1"
+	}
+	"132"
+	{
+		"damshort170surv"		"黄金眼 V1.3"
+		"MapCode"		"damshort170surv"
+	}
+	"133"
+	{
+		"Cure2_001"		"治愈2 V1.2"
+		"MapCode"		"Cure2_001"
+	}
+	"134"
+	{
+		"l4d2_camp_dead"		"死亡岛 V7.1"
+		"MapCode"		"l4d2_camp_dead"
+	}
+	"135"
+	{
+		"l4d2_scream01_yards"		"死亡尖叫2 V11.0
+		"
+		"MapCode"		"		"
+		"l4d2_scream01_yards"		"
+	}
+	"
+		"136"		"
+	{
+		"
+		"l4d2_deadflagblues01_city"		"		"
+		"死亡旗帜2"		"V3.0"
+		"MapCode"		"l4d2_deadflagblues01_city"
+	}
+	"137"
+	{
+		"l4d_grave_city"		"死亡军团2 V9.0
+		"
+		"MapCode"		"		"
+		"l4d_grave_city"		"
+	}
+}
+
+
+
+"
+	}
+	"136"
+	{
+		"dayofthedead1"		"dayofthedead1(UnKnowMapName)"
+		"MapCode"		"dayofthedead1"
+	}
+	"138"
+	{
+		"l4d2_deathtoll01_clam"		"l4d2_deathtoll01_clam(UnKnowMapName)"
+		"MapCode"		"l4d2_deathtoll01_clam"
+	}
+	"139"
+	{
+		"c1m1_hotel"		"c1m1_hotel(UnKnowMapName)"
+		"MapCode"		"c1m1_hotel"
+	}
+	"140"
+	{
+		"ud_map01_n"		"ud_map01_n(UnKnowMapName)"
+		"MapCode"		"ud_map01_n"
+	}
+	"141"
+	{
+		"rmstitanic_m1"		"rmstitanic_m1(UnKnowMapName)"
+		"MapCode"		"rmstitanic_m1"
+	}
+	"142"
+	{
+		"uf1_boulevard"		"uf1_boulevard(UnKnowMapName)"
+		"MapCode"		"uf1_boulevard"
+	}
+	"143"
+	{
+		"dprm1_milltown_a"		"dprm1_milltown_a(UnKnowMapName)"
+		"MapCode"		"dprm1_milltown_a"
+	}
+	"144"
+	{
+		"l4d_mic2_trapmentd"		"l4d_mic2_trapmentd(UnKnowMapName)"
+		"MapCode"		"l4d_mic2_trapmentd"
+	}
+	"145"
+	{
+		"q_ancienttown2"		"q_ancienttown2(UnKnowMapName)"
+		"MapCode"		"q_ancienttown2"
+	}
+	"146"
+	{
+		"l4d_vs_ds1"		"l4d_vs_ds1(UnKnowMapName)"
+		"MapCode"		"l4d_vs_ds1"
+	}
+	"147"
+	{
+		"l4d_sh07_otherchurch"		"l4d_sh07_otherchurch(UnKnowMapName)"
+		"MapCode"		"l4d_sh07_otherchurch"
+	}
+	"148"
+	{
+		"l4d_SH09_Resort"		"l4d_SH09_Resort(UnKnowMapName)"
+		"MapCode"		"l4d_SH09_Resort"
+	}
+	"149"
+	{
+		"SA_04"		"SA_04(UnKnowMapName)"
+		"MapCode"		"SA_04"
+	}
+	"150"
+	{
+		"silenthill3mall"		"silenthill3mall(UnKnowMapName)"
+		"MapCode"		"silenthill3mall"
+	}
+	"151"
+	{
+		"msd3_square"		"msd3_square(UnKnowMapName)"
+		"MapCode"		"msd3_square"
+	}
+	"152"
+	{
+		"ds2_1"		"ds2_1(UnKnowMapName)"
+		"MapCode"		"ds2_1"
+	}
+	"153"
+	{
+		"dkr_m1_motel"		"dkr_m1_motel(UnKnowMapName)"
+		"MapCode"		"dkr_m1_motel"
+	}
+	"154"
+	{
+		"port_01"		"port_01(UnKnowMapName)"
+		"MapCode"		"port_01"
+	}
+}

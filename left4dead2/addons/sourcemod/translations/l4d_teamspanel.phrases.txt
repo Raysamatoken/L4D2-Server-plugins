@@ -1,0 +1,8 @@
+﻿"Phrases"
+{
+	"announce_command_message"
+	{
+		"en"	"聊天框内输入!players 显示团队信息面板"
+	}
+}
+

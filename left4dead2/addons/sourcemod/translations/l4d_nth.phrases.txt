@@ -1,0 +1,21 @@
+﻿
+
+"Phrases"
+{
+	"ShowHintMessage"
+	{
+		"en"		"装逼灯调好颜色后只需输入!zb 来开关，颜色自动设置好"
+	}
+	"MessageInfected"
+	{
+		"en"		"[SM]You have to be an Infected to kill yourself"
+	}
+	"MessageSurvivors"
+	{
+		"en"		"[SM]You have to be a survivor to kill yourself"
+	}
+	"MessageNotAllowed"
+	{
+		"en"		"[SM]Your not allowed to kill yourself on this server"
+	}
+}

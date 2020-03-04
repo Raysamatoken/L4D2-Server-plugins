@@ -1,0 +1,78 @@
+/* created by V10 aka maldersoft */
+"Games"
+{
+	"left4dead2"
+	{	
+		"Offsets"
+		{
+			"WitchAttackCharaster"
+			{
+				"windows"	"14"
+				"linux"		"14"
+			}
+			
+			"SurvivorCounters"
+			{
+				"windows"	"1056"
+				"linux"		"1048"
+			}
+						
+			/* Offset into CDirectorMusicBanks::OnRoundStart */
+			"TheDirector"
+			{
+				"windows"	"12"
+			}			
+		}
+		"Signatures"
+		{
+			"WitchAttack::WitchAttack"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x53\x56\x8B\xF1\xC7\x46\x2A\x2A\x2A\x2A\x2A\xC7\x46\x2A\x2A\x2A\x2A\x2A\x33\xDB\x33\xC0\x89\x46\x2A\x33\xC9\x89\x4E\x2A\x57\x33\xD2\x89\x56\x2A\x33\xFF\x89\x5E\x2A\x89\x5E\x2A\x89\x5E\x2A\x89\x5E\x2A\x89\x5E\x2A\x89\x5E\x2A\x66\x89\x5E\x2A\x89\x7E\x2A\xC7\x06\x2A\x2A\x2A\x2A\xC7\x46\x2A\x2A\x2A\x2A\x2A\x53\x8D\x4E\x2A\xC7\x46\x2A\x2A\x2A\x2A\x2A\xE8"
+				"linux"		"@_ZN11WitchAttackC1EP11CBaseEntity"
+				/* win: 
+				found via caller fcn with string "vomit thrown on me" 
+				55 8B EC 53 56 8B F1 C7 46 ? ? ? ? ? C7 46 ? ? ? ? ? 33 DB 33 C0 89 46 ? 33 C9 89 4E ? 57 33 D2 89 56 ? 33 FF 89 5E ? 89 5E ? 89 5E ? 89 5E ? 89 5E ? 89 5E ? 66 89 5E ? 89 7E ? C7 06 ? ? ? ? C7 46 ? ? ? ? ? 53 8D 4E ? C7 46 ? ? ? ? ? E8
+				*/	
+			}
+		
+			"CCharge::HandleCustomCollision_code"
+			{
+				"library"	"server"
+				"windows"	"\x0f\x85***\x00\xc6\x00\x01\x8b\x15****\xf3\x0f\x10\x42*\xf3\x0f\x59\xc0\x0f"
+				"linux"		"\x0F\x85**\xFF\xFF\xC6\x84****\x00\x01\xF3\x0F\x58\xC1\xA1****\xF3\x0F\x58\xC2\xF3"
+			}
+			"CCharge::HandleCustomCollision"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8b\xec\x81\xec**\x00\x00\xa1****\x33\xc5\x89\x45*\x8b\x45*\x53\x8b\xd9\x89\x45*\x8b\x83**\x00\x00\x56\x8b\x75"
+				"linux"		"@_ZN7CCharge21HandleCustomCollisionEP11CBaseEntityRK6VectorS4_P10CGameTraceP9CMoveData"
+			}
+			
+			"CTerrorGameRules::CalculateSurvivalMultiplier"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8b\xec\x83\xec*\x80\x7d*\x00\x53\x56\x8b\xd9\x0f\x84**\x00\x00"
+				"linux"		"@_ZN16CTerrorGameRules27CalculateSurvivalMultiplierEb"
+			}
+			
+			"TheDirector"
+			{
+				"library"	"server"
+				"linux"		"@TheDirector"
+			}
+			"DirectorMusicBanks::OnRoundStart"
+			{
+				"library"	"server"
+				"windows"   "\x55\x8b\xec\x83\xec*\x56\x57\x8b\xf9\x8b\x0d****\xe8****\x84\xc0\x0f\x85"
+			}
+			"CDirector::AreTeamsFlipped"
+			{
+				"library"	"server"
+				"windows"   "\x57\x8b\xf9\xe8****\x84\xc0\x75*\xf7\x05*******\x00\x56\x74*\xbe"
+				"linux"		"@_ZNK9CDirector15AreTeamsFlippedEv"
+			}
+			
+		}
+	}
+}
